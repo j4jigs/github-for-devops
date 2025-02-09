@@ -1,6 +1,4 @@
-2 python .\testing.py
-   3 python --version
-   4 cls
+4 cls
    5 ls
    6 ls -l
    7 rm .\testing.py
@@ -27,3 +25,40 @@
   28 git status
   29 git restore testing.py
   30 git status
+  31 history
+  32 git status
+  33 gir add .\git_commands.txt
+  34 git add .\git_commands.txt
+  35 git status
+  36 git commit -m "added git_commands file"
+  37 git status
+  38 git remote add origin https://github.com/j4jigs/github-for-devops.git
+  39 git remote -v
+  40 git branch -M main
+  41 git branch
+  42 git checkout master
+  43 git checkout -b master
+  44 git status
+  45 git remote set-url origin https://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@github.com/j4jigs/github-for-devops.git
+  46 git remote -v
+  47 git push origin master
+  48 ls
+  49 history
+  50 ls
+  51 touch fine
+  52 git status
+  53 git add .\fine.txt
+  54 git status
+  55 git commit -m "adding fine file"
+  56 git status
+  57 git push origin main
+  58 ls
+  59 git push origin master
+  60 cd :
+  61 cd ..
+  62 mkdir sunday-demo
+  63 cd .\sunday-demo\
+  64 git clone https://github.com/j4jigs/github-for-devops-workshop.git
+  65 ls
+  66 cd .\github-for-devops-workshop\
+  67 ls

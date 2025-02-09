@@ -39,7 +39,7 @@
   42 git checkout master
   43 git checkout -b master
   44 git status
-  45 git remote set-url origin https://tockenn@github.com/j4jigs/github-for-devops.git
+  
   46 git remote -v
   47 git push origin master
   48 ls

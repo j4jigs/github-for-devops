@@ -1,0 +1,16 @@
+ git status
+  29 git restore testing.py
+  30 git status
+  31 history
+  32 git status
+  33 gir add .\git_commands.txt
+  34 git add .\git_commands.txt
+  35 git status
+  36 git commit -m "added git_commands file"
+  37 git status
+  38 git remote add origin https://github.com/j4jigs/github-for-devops.git
+  39 git remote -v
+  40 git branch -M main
+  41 git branch
+  42 git checkout master
+  43 git checkout -b master
